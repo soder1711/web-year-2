@@ -1,0 +1,39 @@
+.text {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+.text2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+    font-size: 100px;
+}
+h1 {
+    text-align: center;
+}
+table {
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: lightgreen;
+}
+img {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.container {
+    text-align: center;
+}
+tbody tr:nth-child(2n+2){
+    background-color: lightgreen;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+ol li {
+    list-style-type: none;
+    color: blue;
+}
